@@ -53,3 +53,12 @@ for i in range(iter_Paragraph):
 doc.Save()     # 存檔
 doc.Close()  # 关闭word文档
 
+
+
+
+#change
+
+
+
+
+
